@@ -1,0 +1,7 @@
+# exclude these directories
+/dist/
+/node_modules/
+/build/
+/config/
+/coverage/
+Procfile  
