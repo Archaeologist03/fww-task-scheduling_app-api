@@ -1,7 +1,7 @@
 {
-  "name": "fww-task-scheduling_app-api",
+  "name": "node-typescript-boilerplate",
   "version": "1.0.0",
-  "description": "Event scheduling app REST API",
+  "description": "Boilerplate for Express REST API with Typescript",
   "main": "server.js",
   "scripts": {
     "start": "npm run serve",
