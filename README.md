@@ -10,6 +10,12 @@
 
 > Boilerplate for Express REST API with Typescript
 
+## Clone Repo
+
+```sh
+git clone git@github.com:Archaeologist03/node-typescript-boilerplate.git
+```
+
 ## Install
 
 ```sh
